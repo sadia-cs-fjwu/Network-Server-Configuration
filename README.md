@@ -94,7 +94,33 @@ This project demonstrates the implementation of a complete Local Area Network (L
 
 ## 📷 Project Screenshots
 
-Project screenshots will be added soon.
+### Virtual Machine Setup
+
+![VM Setup](vm-setup.png)
+
+### Static IP Configuration
+
+![Static IP](static-ip.png)
+
+### DHCP Server
+
+![DHCP](dhcp.png)
+
+### DNS Server
+
+![DNS](dns.png)
+
+### FTP Server
+
+![FTP](ftp.png)
+
+### Apache Web Server
+
+![Apache](apache.png)
+
+### Client Testing
+
+![Client](client-test.png)
 
 ---
 
