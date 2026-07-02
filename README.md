@@ -94,35 +94,55 @@ This project demonstrates the implementation of a complete Local Area Network (L
 
 ## 📷 Project Screenshots
 
-### Virtual Machine Setup
-![VM Setup](VM%20setup.jpeg)
+### 1️⃣ Virtual Machine Setup
+<p align="center">
+  <img src="VM%20setup.jpeg" width="400">
+</p>
 
-### DHCP Installation
-![DHCP](dhcp-install.png)
+### 2️⃣ DHCP Installation
+<p align="center">
+  <img src="dhcp-install.png" width="400">
+</p>
 
-### IP Assigned Through DHCP
-![IP Assigned Through DHCP](ip-assigning-through-dhcp.png)
+### 3️⃣ IP Assigning Through DHCP
+<p align="center">
+  <img src="ip-assigning-through-dhcp.png" width="400">
+</p>
 
-### DNS Installation
-![DNS Installation](dns-install.png)
+### 4️⃣ DNS Installation
+<p align="center">
+  <img src="dns-install.png" width="400">
+</p>
 
-### DNS Verification
-![DNS Check](dns-check.png)
+### 5️⃣ DNS Verification
+<p align="center">
+  <img src="dns-check.png" width="400">
+</p>
 
-### FTP Installation
-![FTP Installation](ftp-install.png)
+### 6️⃣ FTP Installation
+<p align="center">
+  <img src="ftp-install.png" width="400">
+</p>
 
-### File Transfer Through FTP
-![FTP Transfer](filetransfer-through-ftp.png)
+### 7️⃣ File Transfer Through FTP
+<p align="center">
+  <img src="filetransfer-through-ftp.png" width="400">
+</p>
 
-### Apache Web Server Installation
-![Apache](apacheWebServerinstall.png)
+### 8️⃣ Apache Web Server Installation
+<p align="center">
+  <img src="apacheWebServerinstall.png" width="400">
+</p>
 
-### Web Server Test
-![Web Server](checkWebServer.png)
+### 9️⃣ Web Server Testing
+<p align="center">
+  <img src="checkWebServer.png" width="400">
+</p>
 
-### File Transfer Verification
-![Transferred File](check-Transfered-File.png)
+### 🔟 File Transfer Verification
+<p align="center">
+  <img src="check-Transfered-File.png" width="400">
+</p>
 
 ---
 
