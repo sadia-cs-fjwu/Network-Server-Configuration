@@ -131,7 +131,7 @@ This project demonstrates the implementation of a complete Local Area Network (L
 
 ### 8️⃣ Apache Web Server Installation
 <p align="center">
-  <img src="apacheWebServerinstall.png" width="550">
+  <img src="aparcheWebServerinstall.png" width="550">
 </p>
 
 ### 9️⃣ Web Server Testing
