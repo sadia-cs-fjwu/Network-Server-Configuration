@@ -95,32 +95,34 @@ This project demonstrates the implementation of a complete Local Area Network (L
 ## 📷 Project Screenshots
 
 ### Virtual Machine Setup
+![VM Setup](VM%20setup.jpeg)
 
-![VM Setup](vm-setup.png)
+### DHCP Installation
+![DHCP](dhcp-install.png)
 
-### Static IP Configuration
+### IP Assigned Through DHCP
+![IP Assigned Through DHCP](ip-assigning-through-dhcp.png)
 
-![Static IP](static-ip.png)
+### DNS Installation
+![DNS Installation](dns-install.png)
 
-### DHCP Server
+### DNS Verification
+![DNS Check](dns-check.png)
 
-![DHCP](dhcp.png)
+### FTP Installation
+![FTP Installation](ftp-install.png)
 
-### DNS Server
+### File Transfer Through FTP
+![FTP Transfer](filetransfer-through-ftp.png)
 
-![DNS](dns.png)
+### Apache Web Server Installation
+![Apache](apacheWebServerinstall.png)
 
-### FTP Server
+### Web Server Test
+![Web Server](checkWebServer.png)
 
-![FTP](ftp.png)
-
-### Apache Web Server
-
-![Apache](apache.png)
-
-### Client Testing
-
-![Client](client-test.png)
+### File Transfer Verification
+![Transferred File](check-Transfered-File.png)
 
 ---
 
